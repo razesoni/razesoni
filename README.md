@@ -1,4 +1,4 @@
-# Raz Esoni
+# Akash Kumar Singh
 
 Data Scientist & ML Engineer — Turning raw data into actionable insights.
 
@@ -14,7 +14,7 @@ Data Scientist & ML Engineer — Turning raw data into actionable insights.
 [![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automation-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
-Hello! I'm Raz, a data scientist and machine learning engineer who builds models, pipelines, and visualizations that help teams make data-driven decisions. I enjoy translating complex datasets into clear stories and production-ready ML solutions.
+Hello! I'm Akash Kumar Singh, a data scientist and machine learning engineer who builds models, pipelines, and visualizations that help teams make data-driven decisions. I enjoy translating complex datasets into clear stories and production-ready ML solutions.
 
 ## What I do
 
@@ -27,9 +27,10 @@ Hello! I'm Raz, a data scientist and machine learning engineer who builds models
 
 - Languages: Python, SQL
 - ML & Data: scikit-learn, XGBoost, LightGBM, PyTorch, pandas, NumPy
-- Data Engineering: Airflow, dbt, Spark
+- GenAI & NLP: Spacy, Langchain, RAG, LLM Integration
+- Web Technologies: html, css, javascript, flask, fastapi
 - Visualization: Matplotlib, Seaborn, Plotly, Streamlit
-- Cloud & DevOps: AWS, Docker, GitHub Actions
+- Cloud & DevOps: Docker, GitHub Actions
 
 ## Pinned Projects
 
@@ -38,12 +39,6 @@ Hello! I'm Raz, a data scientist and machine learning engineer who builds models
 - [Adult-Census-Income](https://github.com/razesoni/Adult-Census-Income) — ML pipeline comparing classifiers to predict income levels from demographic data.
 - [Freemium-Gaming-Monetization-Player-Retention](https://github.com/razesoni/Freemium-Gaming-Monetization-Player-Retention) — Analytics pipeline for evaluating player retention, drop-offs, and monetization in F2P games.
 - [California_Housing_Price_Prediction](https://github.com/razesoni/California_Housing_Price_Prediction) — End-to-end regression model predicting California housing prices with model comparisons.
-
-## Notable Projects
-
-- Project 1 — Production ML pipeline for [confidential/company/project].
-- Project 2 — Time-series forecasting and anomaly detection for operational metrics.
-- Project 3 — NLP model for text classification and entity extraction.
 
 (See the `projects/` directory and individual repos for details.)
 
