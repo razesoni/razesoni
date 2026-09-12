@@ -1,53 +1,35 @@
 # Akash Kumar Singh
 
-Data Scientist & ML Engineer — Turning raw data into actionable insights.
+**Entry-level Data Science & Machine Learning | Python · scikit-learn · FastAPI · RAG**
 
-<!-- Badges -->
+I build Python projects that turn datasets and video transcripts into analyses, predictions, and searchable information. I am seeking entry-level data science / machine learning roles and internships in India.
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![pandas](https://img.shields.io/badge/pandas-yes-0EA5A2?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%231DB954?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-supported-F00000?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-supported-FF9900?logo=xgboost&logoColor=white)](https://xgboost.ai/)
-[![AWS](https://img.shields.io/badge/AWS-Services-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automation-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+## Selected work
 
-Hello! I'm Akash Kumar Singh, a data scientist and machine learning engineer who builds models, pipelines, and visualizations that help teams make data-driven decisions. I enjoy translating complex datasets into clear stories and production-ready ML solutions.
+| Project | What to inspect | Current scope |
+| --- | --- | --- |
+| [AniSense AI](https://github.com/razesoni/Anisense-AI-Video-Intelligence) | Modular video ingestion, timestamped transcription, Chroma search, summaries, FastAPI UI | Local development prototype |
+| [Gaming analytics](https://github.com/razesoni/Freemium-Gaming-Monetization-Player-Retention) | pandas analysis, revenue segmentation, Flask dashboard, automated tests | Descriptive analytics |
+| [California housing](https://github.com/razesoni/California_Housing_Price_Prediction) | Train-only preprocessing, regression comparisons, held-out evaluation | Notebook benchmark |
+| [Zomato analytics](https://github.com/razesoni/Zomato-Data-Analysis) | Restaurant EDA, reusable data utilities, Streamlit dashboard | Exploratory analysis |
+| [Course context engine](https://github.com/razesoni/Generative-AI-Course-Context-Engine) | Whisper, Ollama embeddings, cosine retrieval, Q&A and quizzes | Local RAG prototype |
+| [IPL analytics](https://github.com/razesoni/IPL-Exploratory-Data-Analysis) | Match statistics, visualizations, interactive filters | Exploratory analysis |
 
-## What I do
+## Skills demonstrated in these repositories
 
-- Design and train robust machine learning models (classification, regression, ranking).
-- Build data pipelines and ETL processes for reliable, reproducible analysis.
-- Deploy models and monitoring for production environments.
-- Create interactive visualizations and dashboards to surface insights.
+- **Data and ML:** Python, pandas, NumPy, scikit-learn, preprocessing, classification, regression, model evaluation
+- **Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
+- **Applications:** FastAPI, Flask, HTML, CSS, JavaScript
+- **Retrieval and language:** Whisper, Ollama, Chroma, spaCy
+- **Development:** Git, pytest, GitHub Actions; Docker configuration in the Zomato project
 
-## Tech & Tools
+## Current focus
 
-- Languages: Python, SQL
-- ML & Data: scikit-learn, XGBoost, LightGBM, PyTorch, pandas, NumPy
-- GenAI & NLP: Spacy, Langchain, RAG, LLM Integration
-- Web Technologies: html, css, javascript, flask, fastapi
-- Visualization: Matplotlib, Seaborn, Plotly, Streamlit
-- Cloud & DevOps: Docker, GitHub Actions
+Improving reproducibility, evaluation quality, and documentation. My [Anime Lore RAG project](https://github.com/razesoni/Anime-Lore-Rag-Agent) currently implements MediaWiki ingestion; hybrid retrieval and faithfulness evaluation are planned.
 
-## Pinned Projects
+Learning notes are in [data-science](https://github.com/razesoni/data-science); earlier frontend exercises are in [my-web-dev-journey](https://github.com/razesoni/my-web-dev-journey).
 
-- [Real-Time-Air-Quality-Monitoring-System](https://github.com/razesoni/Real-Time-Air-Quality-Monitoring-System) — Real-time stream processing and AQI calculations with a RAG layer for natural language queries over environmental data.
-- [Generative-AI-Course-Context-Engine](https://github.com/razesoni/Generative-AI-Course-Context-Engine) — Offline AI teaching assistant using a local RAG pipeline (Whisper + Ollama) to transcribe videos, answer questions, and generate quizzes.
-- [Adult-Census-Income](https://github.com/razesoni/Adult-Census-Income) — ML pipeline comparing classifiers to predict income levels from demographic data.
-- [Freemium-Gaming-Monetization-Player-Retention](https://github.com/razesoni/Freemium-Gaming-Monetization-Player-Retention) — Analytics pipeline for evaluating player retention, drop-offs, and monetization in F2P games.
-- [California_Housing_Price_Prediction](https://github.com/razesoni/California_Housing_Price_Prediction) — End-to-end regression model predicting California housing prices with model comparisons.
+## Contact
 
-(See the `projects/` directory and individual repos for details.)
-
-## Get in touch
-
-- GitHub: https://github.com/razesoni
-- LinkedIn: https://www.linkedin.com/in/razesoni
-- Email: hello@razesoni.dev
-
----
-
-If you'd like to collaborate or have a question, feel free to reach out — I love working on interesting data problems.
+- [LinkedIn](https://www.linkedin.com/in/razesoni)
+- [GitHub](https://github.com/razesoni)
