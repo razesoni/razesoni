@@ -34,6 +34,10 @@ I enjoy working across the full AI lifecycle: exploratory analysis, feature engi
 - Data & Analytics: Python, pandas, NumPy, SQL, exploratory data analysis, visualization, dashboarding
 - Software & Deployment: FastAPI, Flask, Streamlit, React, TypeScript, PostgreSQL, Docker, GitHub Actions, Jupyter
 
+## Tech Stack
+
+| python | scikit-learn | tensorflow | spacy | langchain | langgraph | docker | GCP | git | Github | SQL | VectorDB |
+
 ## Career Focus
 
 I am passionate about building intelligent systems that combine analytical rigor with practical product thinking. I enjoy turning complex data and AI ideas into intuitive tools that people can actually use.
